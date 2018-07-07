@@ -54,8 +54,8 @@ h1{
   width: 1050px;
 }
 h3{
-  width:1050px;
   margin: 20px;
+  margin-right: 14%;
 }
 small{
   color: grey;
